@@ -50,7 +50,6 @@ export default function Table() {
   };
 
   const columns = [
-    { header: "ID", accessor: "serial" },
     { header: "Department Name", accessor: "name" },
 
     {
